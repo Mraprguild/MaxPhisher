@@ -1,4 +1,6 @@
 # MaxPhisher
+This tool is developed for educational purposes. Here it demonstrates how phishing works. If anybody wants to gain unauthorized access to someones social media
+
 ![Phishing](Screenshot.jpg)
 <p align="center">
 <a href="https://github.com/Mraprguild"><img title="Language" src="https://img.shields.io/badge/Made%20with-Shell-1f425f.svg?v=103"></a>
