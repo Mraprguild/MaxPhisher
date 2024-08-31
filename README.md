@@ -1,5 +1,5 @@
 # MaxPhisher
-![Phishing](Polish_20210411_132501523.png)
+![Phishing](Screenshot.jpg)
 <p align="center">
 <a href="https://github.com/HackWeiser360"><img title="Language" src="https://img.shields.io/badge/Made%20with-Shell-1f425f.svg?v=103"></a>
 <a href="https://github.com/HackWeiser360"><img title="Followers" src="https://img.shields.io/github/followers/HackWeiser360?color=blue&style=flat-square"></a>
