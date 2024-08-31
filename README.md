@@ -25,7 +25,6 @@
 <a href="https://www.instagram.com/mr.apr1" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 
-
 MaxPhisher is a phishing tool available for Termux users.
 
 ## [+] Installation and Usage
@@ -36,4 +35,3 @@ MaxPhisher is a phishing tool available for Termux users.
 * $ git clone https://github.com/Mraprguild/MaxPhisher
 * $ cd MaxPhisher
 * $ bash MaxPhisher.sh
-
