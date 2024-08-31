@@ -17,6 +17,7 @@
 MaxPhisher is a phishing tool available for Termux users.
 
 ## [+] Installation and Usage
+```bash
 * $ apt update
 * $ apt upgrade
 * $ pkg install git
