@@ -14,6 +14,18 @@
 ![coverage](https://img.shields.io/badge/coverage-51%25-yellowgreen)
 ![version](https://img.shields.io/badge/version-1.0.2-blue)
 
+## Connect to us today
+<div align="center">
+<a href="https://github.com/Mraprguild" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Mraprguild" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/mr.apr1" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+
+
 MaxPhisher is a phishing tool available for Termux users.
 
 ## [+] Installation and Usage
@@ -25,13 +37,3 @@ MaxPhisher is a phishing tool available for Termux users.
 * $ cd MaxPhisher
 * $ bash MaxPhisher.sh
 
-## Connect to us today
-<div align="center">
-<a href="https://github.com/Mraprguild" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Mraprguild" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/mr.apr1" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
